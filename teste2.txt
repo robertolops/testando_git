@@ -1,1 +1,3 @@
-novos comandos do git
+
+teste de git, alterando arquivos e validando versoes
+>>>>>>> 4ebda734b409e4e4d4e381b5b69b1a308095f086
